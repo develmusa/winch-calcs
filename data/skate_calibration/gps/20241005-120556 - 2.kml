@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.2.2 -->
+<!-- Track 5 = 29 TrackPoints + 0 Placemarks -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>GPS Logger 20241005-120556</name>
+  <description><![CDATA[2
+29 Trackpoints + 0 Placemarks]]></description>
+  <Style id="TrackStyle">
+   <LineStyle>
+    <color>ff0000ff</color>
+    <width>3</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>7f0000ff</color>
+   </PolyStyle>
+   <BalloonStyle>
+    <text><![CDATA[<p style="color:red;font-weight:bold">$[name]</p><p style="font-size:11px">$[description]</p><p style="font-size:7px">Track Stats based on: Total time | Time in Movement</p>]]></text>
+   </BalloonStyle>
+  </Style>
+
+  <Placemark id="20241005-120556">
+   <name>Track 20241005-120556</name>
+   <description><![CDATA[<b>2</b><br><br>Distance = 63 m<br>Duration = 00:28 | 00:23<br>Altitude Gap = 4 m<br>Max Speed = 13 km/h<br>Avg Speed = 8.1 | 9.9 km/h<br>Direction = ENE <br><br><i>29 Trackpoints</i>]]></description>
+   <styleUrl>#TrackStyle</styleUrl>
+   <LineString>
+    <extrude>0</extrude>
+    <tessellate>0</tessellate>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>
+     8.53313942,47.39255913,440.696
+     8.53313667,47.39256104,440.886
+     8.53313484,47.39255810,440.813
+     8.53313438,47.39255664,440.563
+     8.53313440,47.39255601,440.360
+     8.53313390,47.39255499,439.961
+     8.53313555,47.39255507,440.012
+     8.53316508,47.39256927,440.171
+     8.53319942,47.39258650,440.618
+     8.53323278,47.39260374,440.990
+     8.53326847,47.39262176,441.333
+     8.53329979,47.39263574,441.553
+     8.53333466,47.39264330,442.231
+     8.53336076,47.39265639,442.297
+     8.53339212,47.39266696,442.532
+     8.53342615,47.39267847,443.013
+     8.53346092,47.39269161,443.265
+     8.53349037,47.39270388,443.290
+     8.53351723,47.39271473,443.251
+     8.53354740,47.39272120,443.273
+     8.53358342,47.39273799,443.494
+     8.53362466,47.39275725,443.683
+     8.53366468,47.39277679,443.541
+     8.53369755,47.39279196,443.236
+     8.53372883,47.39280551,443.526
+     8.53375815,47.39281959,443.797
+     8.53378669,47.39283158,444.260
+     8.53381740,47.39284461,444.564
+     8.53384870,47.39285975,444.824
+    </coordinates>
+   </LineString>
+  </Placemark>
+
+ </Document>
+</kml>
+ 

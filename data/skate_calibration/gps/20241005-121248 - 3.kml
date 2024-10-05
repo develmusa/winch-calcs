@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.2.2 -->
+<!-- Track 6 = 36 TrackPoints + 0 Placemarks -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>GPS Logger 20241005-121248</name>
+  <description><![CDATA[3
+36 Trackpoints + 0 Placemarks]]></description>
+  <Style id="TrackStyle">
+   <LineStyle>
+    <color>ff0000ff</color>
+    <width>3</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>7f0000ff</color>
+   </PolyStyle>
+   <BalloonStyle>
+    <text><![CDATA[<p style="color:red;font-weight:bold">$[name]</p><p style="font-size:11px">$[description]</p><p style="font-size:7px">Track Stats based on: Total time | Time in Movement</p>]]></text>
+   </BalloonStyle>
+  </Style>
+
+  <Placemark id="20241005-121248">
+   <name>Track 20241005-121248</name>
+   <description><![CDATA[<b>3</b><br><br>Distance = 69 m<br>Duration = 00:35 | 00:23<br>Altitude Gap = -7 m<br>Max Speed = 12 km/h<br>Avg Speed = 7.2 | 10.9 km/h<br>Direction = NE <br><br><i>36 Trackpoints</i>]]></description>
+   <styleUrl>#TrackStyle</styleUrl>
+   <LineString>
+    <extrude>0</extrude>
+    <tessellate>0</tessellate>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>
+     8.53311435,47.39253243,443.309
+     8.53311138,47.39253328,443.034
+     8.53311291,47.39253555,442.638
+     8.53311319,47.39253560,442.628
+     8.53311281,47.39253543,442.417
+     8.53311866,47.39253948,441.934
+     8.53311518,47.39253677,441.269
+     8.53311705,47.39253819,441.184
+     8.53311707,47.39253814,441.084
+     8.53311705,47.39253820,440.983
+     8.53311743,47.39253855,440.760
+     8.53311745,47.39253835,440.534
+     8.53311828,47.39253922,440.498
+     8.53313091,47.39254490,440.551
+     8.53314350,47.39255158,440.515
+     8.53318217,47.39256567,440.263
+     8.53322584,47.39258235,440.050
+     8.53326522,47.39260192,439.899
+     8.53330372,47.39261704,439.805
+     8.53334029,47.39262833,439.483
+     8.53337606,47.39263883,439.107
+     8.53341356,47.39265303,438.873
+     8.53344648,47.39266975,438.712
+     8.53347611,47.39268655,438.392
+     8.53351376,47.39270753,437.965
+     8.53355077,47.39272758,438.107
+     8.53359239,47.39274988,437.326
+     8.53362602,47.39277362,436.588
+     8.53365791,47.39279771,436.034
+     8.53368929,47.39282118,435.973
+     8.53372440,47.39284362,436.408
+     8.53376087,47.39286306,436.394
+     8.53379314,47.39287900,436.818
+     8.53381627,47.39289329,436.698
+     8.53383546,47.39290535,436.818
+     8.53383852,47.39291308,436.382
+    </coordinates>
+   </LineString>
+  </Placemark>
+
+ </Document>
+</kml>
+ 
