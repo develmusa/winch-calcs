@@ -55,6 +55,8 @@ fastjsonschema==2.20.0
     # via nbformat
 fqdn==1.5.1
     # via jsonschema
+gpxpy==1.6.2
+    # via winch-berechnung
 h11==0.14.0
     # via httpcore
 httpcore==1.0.6
